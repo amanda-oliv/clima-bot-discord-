@@ -1,0 +1,13 @@
+# Ignora o arquivo com tokens e senhas
+.env
+
+# Ignora arquivos do Python
+__pycache__/
+*.pyc
+
+# Ignora arquivos do VS Code
+.vscode/
+
+# Ignora arquivos do sistema
+.DS_Store
+Thumbs.db.env
